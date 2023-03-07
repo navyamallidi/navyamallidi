@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navyamallidi
-- 👀 I’m interested in AI,ML,AR,C++
+- 👀 I’m interested in AI,ML,AR,C++,cyber security
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
