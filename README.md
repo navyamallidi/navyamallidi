@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @navyamallidi
-- 👀 I’m interested in AI,ML,AR,C++,cyber security,Android App development and Full Stack
-- 🌱 I’m currently learning machine Cybersecurity
+- 👀 I’m interested in cyber security,Android App development, Full Stack,AI,ML,AR,C++,java
 - 📫 How to reach me mallidinavya635@gmail.com
 
 <!---
