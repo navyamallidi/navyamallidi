@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Navya Mallidi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://main--navyasportfoliofull.netlify.app/](https://main--navyasportfoliofull.netlify.app/)
+- 👨‍💻 All of my projects are available at
+- https://portfolio-git-main-navyas-projects-5409d4a0.vercel.app/
+- or 
+-  [https://main--navyasportfoliofull.netlify.app/](https://main--navyasportfoliofull.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mallidinavya635](https://medium.com/@mallidinavya635)
 
