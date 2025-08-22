@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **mallidinavya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oR8PGZN_Ka7dZpXDzaBNQLTqu1t3uC0Z/view?usp=sharing](https://drive.google.com/file/d/1oR8PGZN_Ka7dZpXDzaBNQLTqu1t3uC0Z/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
